@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".views.MovieDetails">
+
+    <ScrollView
+        android:id="@+id/scrollerMovieDetail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/detail_movie_poster"
+                android:layout_width="150dp"
+                android:layout_height="200dp"
+                android:layout_marginTop="48dp"
+                android:scaleType="centerCrop"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:id="@+id/detail_movie_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="@string/default_name"
+                android:textAlignment="center"
+                android:textSize="25sp"
+                android:textColor="@color/cardview_dark_background"
+                app:layout_constraintEnd_toEndOf="@id/detail_movie_poster"
+                app:layout_constraintStart_toStartOf="@id/detail_movie_poster"
+                app:layout_constraintTop_toBottomOf="@id/detail_movie_poster"
+                tools:ignore="PrivateResource" />
+
+            <TextView
+                android:id="@+id/detail_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@color/colorPrimary"
+                android:text="@string/date_default"
+                android:textAlignment="center"
+                android:textColor="@color/cardview_light_background"
+                android:textSize="18sp"
+                app:layout_constraintEnd_toEndOf="@id/detail_movie_name"
+                app:layout_constraintStart_toStartOf="@id/detail_movie_name"
+                app:layout_constraintTop_toBottomOf="@id/detail_movie_name"
+                tools:ignore="PrivateResource" />
+
+                <TextView
+                    android:id="@+id/description"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:textColor="@color/cardview_dark_background"
+                    android:text="@string/default_Description"
+                    android:layout_marginTop="20dp"
+                    android:textAlignment="center"
+                    android:textSize="14sp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/detail_date"
+                    tools:ignore="PrivateResource" />
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+    <ToggleButton
+        android:id="@+id/button_favorite"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/button_favorite"
+        android:checked="false"
+        android:text=""
+        android:textOff=""
+        android:textOn=""
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,153 @@
+<resources>
+    <string name="app_name">Film Category - Arie May</string>
+    <string name="name_default">Pocong</string>
+    <string name="date_default">December 25, 1988</string>
+
+    <string name="test">Test</string>
+    <string name="tv_show">TV Show</string>
+    <string name="movies">Movies</string>
+    <string name="settings">Change Language Settings</string>
+
+    <string-array name="movie_name">
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avenger: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Avatar</item>
+        <item>The Martian</item>
+        <item>Avenger: End Game</item>
+        <item>Mr. Bean\'s Holiday</item>
+        <item>The Internship</item>
+    </string-array>
+
+    <string-array name="tv_name">
+        <item>Aaron Stone</item>
+        <item>The Abbott and Costello Show</item>
+        <item>Abby</item>
+        <item>ABC Afterschool Special</item>
+        <item>About a Boy</item>
+        <item>Access Hollywood</item>
+        <item>Accidental Family</item>
+    </string-array>
+
+    <string-array name="tv_genre">
+        <item>Science Fiction</item>
+        <item>Comedy</item>
+        <item>Comedy</item>
+        <item>Informational</item>
+        <item>Comedy, Drama, Romance</item>
+        <item>News</item>
+        <item>Comedy</item>
+    </string-array>
+
+    <string-array name="tv_startyear">
+        <item>2009</item>
+        <item>1952</item>
+        <item>2003</item>
+        <item>1972</item>
+        <item>2014</item>
+        <item>1996</item>
+        <item>1967</item>
+    </string-array>
+
+    <string-array name="tv_endyear">
+        <item>2010</item>
+        <item>1954</item>
+        <item>2003</item>
+        <item>1997</item>
+        <item>2015</item>
+        <item>present</item>
+        <item>1968</item>
+    </string-array>
+
+    <string-array name="tv_description">
+        <item>Aaron Stone is a Canadian-American, science fiction, action-adventure television series created by Bruce Kalish. Originally broadcast with the launch of Disney XD on February 13, 2009. It was the first original series to air on the network. It was produced in conjunction with Canadian Shaftesbury Films and filmed in Toronto, Ontario, Canada.</item>
+        <item>The Abbott and Costello Show is an American television sitcom starring the popular comedy team of Bud Abbott and Lou Costello. The program premiered in syndication in the fall of 1952 and ran two seasons, to the spring of 1954. Each season ran 26 episodes.</item>
+        <item>Abby is an American television sitcom created by Nat Bernstein and Michael Katlin that aired for one season on United Paramount Network (UPN) from January 6, 2003, to March 4, 2003. The show revolves around television producer Abigail \"Abby\" Walker (Sydney Tamiia Poitier) and her relationship with her ex-boyfriend Will Jeffries (Kadeem Hardison). After they break up in the pilot episode, they agree to live together as friends in their rent-controlled San Francisco apartment.</item>
+        <item>ABC Afterschool Special is an American television anthology series that aired on ABC from October 14, 1972, to July 1, 1997, usually in the late afternoon on weekdays. Most episodes were dramatically presented situations, often controversial, of interest to children and teenagers. Several episodes were either in animated form or presented as documentaries. Topics included illiteracy, substance abuse and teenage pregnancy. The series won 51 Daytime Emmy Awards during its 25-year run.</item>
+        <item>About a Boy is an American single-camera television sitcom that aired on NBC from February 22, 2014, to July 20, 2015. The show was developed by Jason Katims and premiered as a midseason replacement following the 2014 Winter Olympics. </item>
+        <item>Access, formerly Access Hollywood, is an American weekday television entertainment news program that premiered on September 9, 1996. It covers events and celebrities in the entertainment industry.</item>
+        <item>Accidental Family is an American sitcom broadcast on NBC during the first part of the 1967 U.S. television season.</item>
+    </string-array>
+
+    <string-array name="movies_description">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally\'s career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock \'n\' roll band Queen in 1970. Hit songs become instant classics. When Mercury\'s increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.</item>
+        <item>When astronauts blast off from the planet Mars, they leave behind Mark Watney (Matt Damon), presumed dead after a fierce storm. With only a meager amount of supplies, the stranded visitor must utilize his wits and spirit to find a way to survive on the hostile planet. Meanwhile, back on Earth, members of NASA and a team of international scientists work tirelessly to bring him home, while his crew mates hatch their own plan for a daring rescue mission.</item>
+        <item>Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers ( Thor, Black Widow, Captain America and Bruce Banner ) must figure out a way to bring back their vanquished allies for an epic showdown with Thanos, the evil demigod who decimated the planet and the universe.</item>
+        <item>Mr Bean is going on holiday to the south of France, looking for a quiet and sunny trip in the Riviera. However, his trip doesn\'t go as smoothly as he expected when he has to face a series of misunderstandings and totally unfortunate coincidences. Eventually, Mr Bean will end up spoiling the last film of the snobbish director Carson Clay and appearing by accident at the Cannes Film Festival.</item>
+        <item>After old-school salesmen Billy (Vince Vaughn) and Nick (Owen Wilson) find themselves downsized, Billy decides that, despite their complete lack of technological savvy, they should work for Google. The friends somehow manage to finagle internships at the Internet giant and promptly head out to Silicon Valley.</item>
+    </string-array>
+
+    <string-array name="movies_date">
+        <item>October 3, 2018</item>
+        <item>December 7, 2018</item>
+        <item>April 25, 2018</item>
+        <item>December 13, 2018</item>
+        <item>October 24, 2018</item>
+        <item>December 18, 2009</item>
+        <item>September 30, 2015</item>
+        <item>April 24, 2019</item>
+        <item>March 24, 2007</item>
+        <item>May 29, 2013</item>
+    </string-array>
+
+    <string-array name="artists">
+        <item>Bradley Cooper</item>
+        <item>Jason Momoa</item>
+        <item>Avenger\'s Main Artists</item>
+        <item>Sandra Bullock</item>
+        <item>Rami Malek</item>
+        <item>Sam Worthington</item>
+        <item>Matt Damon</item>
+        <item>Avenger\'s Main Artists</item>
+        <item>Rowan Atkinson</item>
+        <item>Vince Vaughn and Owen Wilson</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_avatar</item>
+        <item>@drawable/poster_martian</item>
+        <item>@drawable/poster_martian</item>
+        <item>@drawable/poster_mrbean</item>
+        <item>@drawable/poster_internship</item>
+    </array>
+
+    <array name="data_tv_photo">
+        <item>@drawable/tv_aaronstone</item>
+        <item>@drawable/tv_abbot</item>
+        <item>@drawable/tv_abby</item>
+        <item>@drawable/tv_abc</item>
+        <item>@drawable/tv_about</item>
+        <item>@drawable/tv_access</item>
+        <item>@drawable/tv_jerry</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_Description">Ini description</string>
+    <string name="default_name">Spiderman</string>
+    <string name="tv_default_name">Tersanjung</string>
+    <string name="genre_default">Science Fiction</string>
+    <string name="tv_Shows">TV Shows</string>
+    <string name="default_genre">Horror</string>
+    <string name="default_actor">Arie May</string>
+    <string name="by">By :</string>
+    <string name="default_Enddate">January 1, 1989</string>
+    <string name="loading">Please wait, fetching data</string>
+    <string name="rating">6.2</string>
+    <string name="textRating">Rating:</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_movie">Find Movie</string>
+    <string name="search">Search</string>
+</resources>
